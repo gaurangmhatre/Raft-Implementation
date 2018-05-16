@@ -16,7 +16,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Sushant on 25-11-2016.
+ * Created by Gaurang on 25-11-2016.
  */
 public class Leader implements NodeState {
     private Node node;

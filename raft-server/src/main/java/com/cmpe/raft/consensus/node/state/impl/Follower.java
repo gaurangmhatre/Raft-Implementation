@@ -18,7 +18,7 @@ import java.util.List;
 import java.util.concurrent.Callable;
 
 /**
- * Created by Sushant on 25-11-2016.
+ * Created by Gaurang on 25-11-2016.
  */
 public class Follower implements NodeState, Callable {
 

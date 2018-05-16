@@ -4,7 +4,7 @@ import com.cmpe.raft.consensus.client.NodeClient;
 import com.cmpe.raft.consensus.model.AddNode;
 
 /**
- * Created by Sushant on 30-11-2016.
+ * Created by Gaurang on 30-11-2016.
  */
 public class AddNodeJob {
     private String host;

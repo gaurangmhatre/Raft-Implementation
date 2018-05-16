@@ -1,7 +1,7 @@
 package com.cmpe.raft.consensus.util;
 
 /**
- * Created by Sushant on 26-11-2016.
+ * Created by Gaurang on 26-11-2016.
  */
 public final class StringUtil {
 

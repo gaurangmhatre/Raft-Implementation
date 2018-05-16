@@ -7,7 +7,7 @@ import com.cmpe.raft.consensus.node.state.impl.Candidate;
 import java.util.concurrent.*;
 
 /**
- * Created by Sushant on 27-11-2016.
+ * Created by Gaurang on 27-11-2016.
  */
 public class CandidacyJob {
     private Candidate candidate;

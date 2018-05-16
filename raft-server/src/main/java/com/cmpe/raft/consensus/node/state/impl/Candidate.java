@@ -11,7 +11,7 @@ import com.cmpe.raft.consensus.node.state.NodeState;
 import com.cmpe.raft.consensus.util.ServiceUtil;
 
 /**
- * Created by Sushant on 25-11-2016.
+ * Created by Gaurang on 25-11-2016.
  */
 public class Candidate implements NodeState {
 

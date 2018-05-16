@@ -3,7 +3,7 @@ package com.cmpe.raft.consensus.util;
 import java.util.concurrent.Callable;
 
 /**
- * Created by Sushant on 26-11-2016.
+ * Created by Gaurang on 26-11-2016.
  */
 public class StopWatch extends Thread
 {

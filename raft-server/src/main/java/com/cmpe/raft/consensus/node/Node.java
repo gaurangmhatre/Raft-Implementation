@@ -11,7 +11,7 @@ import com.cmpe.raft.consensus.node.state.impl.Leader;
 import sun.applet.AppletListener;
 
 /**
- * Created by Sushant on 26-11-2016.
+ * Created by Gaurang on 26-11-2016.
  */
 public class Node {
 

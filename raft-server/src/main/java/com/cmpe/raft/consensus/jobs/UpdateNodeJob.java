@@ -4,7 +4,7 @@ import com.cmpe.raft.consensus.client.NodeClient;
 import com.cmpe.raft.consensus.model.ClientRequest;
 
 /**
- * Created by Sushant on 06-12-2016.
+ * Created by Gaurang on 06-12-2016.
  */
 public class UpdateNodeJob {
     private ClientRequest clientRequest;

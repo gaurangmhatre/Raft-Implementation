@@ -3,7 +3,7 @@ package com.cmpe.raft.consensus.model;
 import javax.xml.bind.annotation.XmlRootElement;
 
 /**
- * Created by Sushant on 07-12-2016.
+ * Created by Gaurang on 07-12-2016.
  */
 @XmlRootElement
 public class ServerStatus {

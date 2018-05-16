@@ -8,7 +8,7 @@ import java.util.concurrent.ScheduledFuture;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Created by Sushant on 26-11-2016.
+ * Created by Gaurang on 26-11-2016.
  */
 public class HeartBeatJob {
 

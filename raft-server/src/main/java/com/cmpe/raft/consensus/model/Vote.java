@@ -5,7 +5,7 @@ import com.fasterxml.jackson.annotation.JsonFormat;
 import java.util.Date;
 
 /**
- * Created by Sushant on 26-11-2016.
+ * Created by Gaurang on 26-11-2016.
  */
 public class Vote {
 

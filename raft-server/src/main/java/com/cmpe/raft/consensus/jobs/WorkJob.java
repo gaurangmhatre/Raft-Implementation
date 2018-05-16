@@ -15,7 +15,7 @@ import org.codehaus.jackson.map.ObjectMapper;
 import javax.ws.rs.client.Entity;
 
 /**
- * Created by Sushant on 06-12-2016.
+ * Created by Gaurang on 06-12-2016.
  */
 public class WorkJob {
     private static final String QUEUE_HOST = "localhost";

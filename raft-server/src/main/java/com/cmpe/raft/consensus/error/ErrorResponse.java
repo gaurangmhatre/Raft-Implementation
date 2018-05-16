@@ -1,7 +1,7 @@
 package com.cmpe.raft.consensus.error;
 
 /**
- * Created by Sushant on 26-11-2016.
+ * Created by Gaurang on 26-11-2016.
  */
 public class ErrorResponse {
     private String message;
